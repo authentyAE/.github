@@ -2,16 +2,10 @@
 
 ******************
 
-# Quem Somos
-
-*Sistemas e softwares desenvolvidos especialmente para escritórios de arquitetura e engenharia*
-
 ## História
 
 Iniciamos nossa História em 2011 quando criamos um escritório de Engenharia voltado para Projetos de Estruturas, a MDC Projetos. Mas logo de cara nos deparamos com um problema:
-
-QUANTO COBRAR PELOS PROJETOS?
-
+**QUANTO COBRAR PELOS PROJETOS?**
 E a partir deste momento, nos dedicamos a encontrar uma maneira simples, prática e assertiva de elaborar nossas propostas.
 
 Não foi um trabalho fácil. Ao longo dos anos estudamos muito sobre o assunto e fomos além: Tudo o que implementávamos era testado na prática!
