@@ -1,7 +1,5 @@
 <h1>Authenty Softwares</h1><small>FOR ARCHITECTURE AND ENGINEERING</small>
 
-Veja aqui a [regra de nomes para os repositórios](reposNames.md).
-
 ******************
 
 ## História
