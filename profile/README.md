@@ -24,5 +24,4 @@ Se você chegou até aqui é porque compartilha destas dificuldades, portanto, e
 
 Temos como objetivo desenvolver constantemente soluções inovadoras para otimizar processos nos escritórios e gostaríamos de convidar você, profissional, para fazer parte da comunidade Authenty e nos dizer: Como podemos te ajudar a melhorar o dia a dia do seu escritório?
 
-<img src="https://www.authenty.com.br/site/imgs/textos/alexandre-diego-monica-e-willian.JPG">
 <small>Alexandre, Diego, Mônica e William</small>
