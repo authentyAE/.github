@@ -1,4 +1,4 @@
-<h1>Authenty Softwares</h1><small>FOR ARCHITECTURE AND ENGINEERING</small>
+<h1>Authenty</h1><small>SOFTWARES PARA ENGENHARIA</small>
 
 ******************
 
